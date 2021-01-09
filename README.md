@@ -22,6 +22,8 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 - 📝 Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
 - 📚 When I am free, I read fantasy and fiction novels. Checkout the books I read on [Goodreads](https://www.goodreads.com/rahul-jha98)
 
+<br>
+
 ### Languages and Tools:
 <a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" style="margin-bottom: 4px;" alt="pytorch" height="32px"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" style="margin-bottom: 4px;" alt="tensorflow" height="32px"/> </a> 
