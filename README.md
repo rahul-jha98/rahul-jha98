@@ -25,20 +25,20 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <br>
 
 ### Languages and Tools:
-<a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/pytorch/pytorch.svg" alt="pytorch" height="36px"/> </a> 
-<a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/tensorflow/tensorflow.svg" alt="tensorflow" height="36px"/> </a> 
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="36px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/python/python.svg"></a>
-<a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="36px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/android/android.svg"> </a>
-<a href="https://kotlinlang.org" target="_blank"><img align="left" alt="Kotlin" height ="36px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/kotlin/kotlin.svg"></a>
-<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="36px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/java/java.svg"></a>
-<a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/firebase/firebase.svg" alt="firebase" height ="36px"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="36px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/javascript/javascript.svg"> </a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="36px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/typescript/typescript.svg"></a>
-<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="36px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/react/react.svg"></a>
-<a href="https://vuejs.org/" target="_blank"><img align="left" alt="Vue" height ="36px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/vue/vue.svg"></a>
-<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="36px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/node/node.svg"></a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/git-scm/git-scm.svg" align="left" alt="git" height='36px'/> </a>
-<a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/figma/figma.svg" alt="figma" height='36px'/> </a>
+<a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/pytorch/pytorch.svg" alt="pytorch" height="38px"/> </a> 
+<a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/tensorflow/tensorflow.svg" alt="tensorflow" height="38px"/> </a> 
+<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="38px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/python/python.svg"></a>
+<a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="38px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/android/android.svg"> </a>
+<a href="https://kotlinlang.org" target="_blank"><img align="left" alt="Kotlin" height ="38px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/kotlin/kotlin.svg"></a>
+<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="38px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/java/java.svg"></a>
+<a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/firebase/firebase.svg" alt="firebase" height ="38px"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="38px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/javascript/javascript.svg"> </a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="38px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/typescript/typescript.svg"></a>
+<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="38px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/react/react.svg"></a>
+<a href="https://vuejs.org/" target="_blank"><img align="left" alt="Vue" height ="38px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/vue/vue.svg"></a>
+<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="38px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/node/node.svg"></a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/git-scm/git-scm.svg" align="left" alt="git" height='38px'/> </a>
+<a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/figma/figma.svg" alt="figma" height='38px'/> </a>
 
 <br>
 
