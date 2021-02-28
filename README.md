@@ -24,7 +24,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 <br>
 
-### Languages and Tools:
+### 🔨 Languages and Tools:
 <a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
@@ -45,7 +45,14 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 ### 📊 Github Stats
 <a href='https://github.com/rahul-jha98/github-stats-transparent'>
-  
 ![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
 ![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
- </a>
+</a>
+
+<br>
+
+### 🛠️ My Projects
+<a href="https://github.com/rahul-jha98/Artistify.ai" target="_blank"><img alt="artistify" src="./artistify.svg" height="68" align="left"></a>
+<a href="https://github.com/rahul-jha98/sheets-database" target="_blank"><img alt="sheetsdatabase" src="./sheetsdatabase.svg"  height="68" align="left"></a>
+<a href="https://github.com/rahul-jha98/README_icons" target="_blank"><img alt="readmeicons" src="./readmeicons.svg" height="68" align="left"></a>
+<a href="https://github.com/rahul-jha98/PasswordKeeper" target="_blank"><img alt="passwordkeeper" src="./passwordkeeper.svg" height="68" align="left"></a>
